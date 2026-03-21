@@ -10,7 +10,7 @@ dependencies = [
     "cumesh",
     "typing_extensions",
     "pillow",
-%^&    "torch",
+    "torch",
     "torchvision",
 ]
 
