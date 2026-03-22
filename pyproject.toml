@@ -33,7 +33,7 @@ sandbox_mode = "disabled"
 
 [tool.comfy.isolation.cuda_wheels]
 index_urls = [
-    "https://download.pytorch.org/whl/cu128",
     "https://pozzettiandrea.github.io/cuda-wheels/",
 ]
-packages = ["cumesh", "torch", "torchvision"]
+packages = ["cumesh"]
+
